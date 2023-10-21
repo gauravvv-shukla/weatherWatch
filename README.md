@@ -12,7 +12,7 @@ Welcome to our elegantly crafted Weather Application, where you can get detailed
 
 ## Demo
 
-Experience our beautifully designed Weather Application live by visiting the [Demo](https://weatherwatchh.vercel.app/) page.
+Experience our beautifully designed Weather Application live by visiting the [Demo](weather.gauravxshukla.me) page.
 
 ## Features
 
